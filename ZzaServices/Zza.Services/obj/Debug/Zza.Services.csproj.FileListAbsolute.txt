@@ -1,0 +1,14 @@
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\bin\Debug\Zza.Services.dll.config
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\bin\Debug\Zza.Services.dll
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\bin\Debug\Zza.Services.pdb
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\obj\Debug\Zza.Services.csprojResolveAssemblyReference.cache
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\obj\Debug\Zza.Services.dll
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\obj\Debug\Zza.Services.pdb
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\bin\Debug\EntityFramework.dll
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\bin\Debug\Zza.Data.dll
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\bin\Debug\Zza.Entities.dll
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\bin\Debug\Zza.Data.pdb
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\bin\Debug\Zza.Entities.pdb
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\bin\Debug\EntityFramework.xml
+c:\users\ygor.johasson.silva\documents\visual studio 2015\Projects\ZzaServices\Zza.Services\bin\Debug\EntityFramework.SqlServer.xml
